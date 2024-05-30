@@ -51,4 +51,4 @@ Apply changes and boot to the VM
 
 
 
-Thanks to [this reddit user](https://www.reddit.com/r/VFIO/comments/l1h3im/comment/gjzyv1v/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). I modified his steps for Fedora
+Thanks to [this reddit user!](https://www.reddit.com/r/VFIO/comments/l1h3im/comment/gjzyv1v/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). I modified his steps for Fedora.
