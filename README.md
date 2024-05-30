@@ -16,7 +16,7 @@ Bring it online
 
 Attach network card to that bridge
 
-```sudo nmcli connection modify "Wired connection 1" master br0```
+```sudo nmcli connection modify "Wired connection 1" master bridge-br0```
 
 ```sudo nmcli connection up "Wired connection 1"```
 
