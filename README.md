@@ -43,10 +43,15 @@ Bring up the TAP interface
 ```sudo ip link set tap0 up```
 
 Configure networking in Virt-Manager
+
 Add NIC
+
 Set 'Source device' to bridge
+
 Type in the name of the bridge device as 'br0'
+
 Set device model to virtio for better performance
+
 Apply changes and boot to the VM
 
 
