@@ -28,7 +28,7 @@ Run DHCP client on Bridge
 
 Now guest VM can be attached to the br0 interface and VM's MAC address will have a real layer2 presence on the local network. The router will give it a real rechable IP address and the desktop will act as a switch for packet delivery.
 
-Now to mannually set up networking for KVM VM using QEMU using TAP (network tap) interface and adding it to a bridge which allows VM to communicate with the host network. The following collands set up this environment without using automatic scrips.
+Now to mannually set up networking for KVM VM using QEMU using TAP (network tap) interface and adding it to a bridge which allows VM to communicate with the host network. The following commands set up this environment without using automatic scrips.
 
 Manually create TAP interface
 
